@@ -28,7 +28,6 @@ npm run storybook   # start Storybook on http://localhost:6006
 | `npm run lint` | Run Oxlint |
 | `npm run storybook` | Start Storybook in dev mode |
 | `npm run build-storybook` | Build the static Storybook site |
-| `npm run create:story` | Scaffold a new story with Storybook's CLI |
 
 ## Project structure
 
